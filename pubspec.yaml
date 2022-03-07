@@ -1,0 +1,128 @@
+name: granth_flutter
+description: A new Book selling  Flutter application.
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.15.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # BASE
+  intl: ^0.17.0
+
+  # COMMON
+  nb_utils: ^4.4.10
+
+  # STATE MANAGEMENT
+  mobx: ^2.0.6+1
+  flutter_mobx: ^2.0.3+2
+
+  # PUSH NOTIFICATION
+  onesignal_flutter: ^3.2.7
+
+  # CONNECTIVITY
+  html: ^0.15.0
+  http: ^0.13.4
+
+  # ADS
+  google_mobile_ads: ^1.0.1
+
+  # VIDEOS
+  video_player: ^2.2.10
+
+  # PDF File
+  flutter_pdfview: ^1.2.1
+
+  # EPUB File
+  epub_viewer: ^0.2.4
+
+  # WEB TOOLSye
+  webview_flutter: ^3.0.0
+
+  # IMAGES
+  cached_network_image: ^3.2.0
+  image_picker: ^0.8.4+4
+
+  #PAYMENT METHOD
+  razorpay_flutter: ^1.2.7
+  flutter_paystack: ^1.0.5+1
+  flutter_inappwebview: ^5.3.2
+  flutter_braintree: ^2.2.0
+  #paytm: ^3.0.1
+  flutterwave_standard: ^1.0.3
+
+  # UI
+  cupertino_icons: ^1.0.4
+  flutter_svg: ^1.0.0
+  flutter_rating_bar: ^4.0.0
+  otp_text_field: ^1.1.1
+  flutter_vector_icons: ^1.0.0
+  package_info: ^2.0.2
+  animated_text_kit: ^4.2.1
+
+  # STORAGE
+  permission_handler: ^8.3.0
+
+  # LAUNCH URL
+  url_launcher: ^6.0.17
+
+  # DOWNLOAD
+  flutter_downloader: ^1.7.1
+
+  # DATABASE
+  sqflite: ^2.0.1
+
+  badges: ^2.0.2
+  path_provider: ^2.0.8
+  percent_indicator: ^3.4.0
+
+  share: ^2.0.4
+  provider: ^6.0.1
+
+  readmore: ^2.1.0
+
+  platform_device_id: ^1.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^2.1.7
+  mobx_codegen: ^2.0.5+2
+  #flutter packages pub run build_runner build --delete-conflicting-outputs
+
+  flutter_localizations:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/icons/
+    - assets/gifs/
+    - assets/flags/
+    - lang/
+    - assets/default_images/
+
+
+  fonts:
+    - family: Regular
+      fonts:
+        - asset: assets/fonts/googlesansregular.ttf
+
+    - family: Medium
+      fonts:
+        - asset: assets/fonts/googlesansmedium.ttf
+
+    - family: Semibold
+      fonts:
+        - asset: assets/fonts/googlesansmedium.ttf
+
+    - family: Bold
+      fonts:
+        - asset: assets/fonts/googlesansebold.ttf
+
+

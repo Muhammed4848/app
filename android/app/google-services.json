@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "475388921464",
+    "project_id": "irfan-8f12b",
+    "storage_bucket": "irfan-8f12b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475388921464:android:5edca7fe8dbd5cad340f8d",
+        "android_client_info": {
+          "package_name": "com.Irfan.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475388921464-368ujer9pt7ov8aiqtiln8hd8tamguh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT1kncl1iOsVnRvB_lMXLCGs_9mloKB1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475388921464-368ujer9pt7ov8aiqtiln8hd8tamguh8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "475388921464-vc9ah5sv33nqkhhimv0ma95dagbvo3dj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Irfan.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

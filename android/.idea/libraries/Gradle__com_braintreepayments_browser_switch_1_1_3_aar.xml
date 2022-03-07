@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.braintreepayments:browser-switch:1.1.3@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1d620317b0f57e97b406a8077b2b0bbc/transformed/jetified-browser-switch-1.1.3/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1d620317b0f57e97b406a8077b2b0bbc/transformed/jetified-browser-switch-1.1.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1d620317b0f57e97b406a8077b2b0bbc/transformed/jetified-browser-switch-1.1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1d620317b0f57e97b406a8077b2b0bbc/transformed/jetified-browser-switch-1.1.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

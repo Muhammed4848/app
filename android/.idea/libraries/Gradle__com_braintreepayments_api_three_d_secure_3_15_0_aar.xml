@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.braintreepayments.api:three-d-secure:3.15.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7221b8ca9b366ac4f65def82a4742995/transformed/jetified-three-d-secure-3.15.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7221b8ca9b366ac4f65def82a4742995/transformed/jetified-three-d-secure-3.15.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7221b8ca9b366ac4f65def82a4742995/transformed/jetified-three-d-secure-3.15.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
